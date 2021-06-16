@@ -4,8 +4,7 @@ Small quiz done in React and Typescript following a tutorial to practice some co
 
 ## Tech ⚡️
 React
-React Router
-React Hooks
+Typescript
 
 ## View it live 🔴
 https://typescript-quiz-ss.netlify.app/
